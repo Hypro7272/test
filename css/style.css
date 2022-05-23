@@ -3,3 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.papa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navi{
+    display: flex;
+}
+.navi li {
+    margin-right: 10px;
+    list-style-type: none;
+}
+
+.lalal {
+    width: 200px;
+    height: 200px;
+    border: solid 1px red;
+    margin-right: 20px;
+}
